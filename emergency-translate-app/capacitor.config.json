@@ -1,0 +1,10 @@
+{
+  "appId": "com.emergencytranslateapp.myapp",
+  "appName": "emergency-translate-app",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
