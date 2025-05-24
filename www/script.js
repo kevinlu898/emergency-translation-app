@@ -1,4 +1,4 @@
 //Js code right here
-window.onload function {
+window.onload = function() {
 alert("Skibidi toilet!!!!");
 }
